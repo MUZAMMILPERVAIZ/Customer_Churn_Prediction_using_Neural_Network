@@ -6,4 +6,4 @@ Bank Customers Churn Prediction using Artificial Neural Network.
   <h1>Dataset:</h1>
 <a href="https://www.kaggle.com/datasets/barelydedicated/bank-customer-churn-modeling">https://www.kaggle.com/datasets/barelydedicated/bank-customer-churn-modeling</a>
 <h1>Cloning the repository:</h1>
-<code>git clone https://github.com/MUZAMMILPERVAIZ/Customer_Churn_Prediction_using_Neural_Network.git</code>
+<code>$ git clone https://github.com/MUZAMMILPERVAIZ/Customer_Churn_Prediction_using_Neural_Network.git</code>
